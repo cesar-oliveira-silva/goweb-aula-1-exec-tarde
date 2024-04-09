@@ -93,6 +93,7 @@ func buscaUsuario(ctxt *gin.Context) {
 	}
 }
 
+// exercicio 1 lista tarde
 func filtraUsuario(ctxt *gin.Context) {
 
 	//http://localhost:8080/filtraUsuario/?id=0
